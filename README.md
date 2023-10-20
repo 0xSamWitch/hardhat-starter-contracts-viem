@@ -1,16 +1,15 @@
 # Sample hardhat project
 
+Note: Not really useable yet. Have an ethers one which is more maintained https://github.com/0xSamWitch/hardhat-starter-contracts-viem.
+
 Features the following libraries:
 
 Hardhat
 Viem
 OpenZeppelin v5
 LayerZero
-Axelar
 
 Support for tasks, continuous integration, tests, upgradeable contracts and cross-chain messaging.
-
-[![Continuous integration](https://github.com/0xSamwitch/hardhat-starter-contracts/actions/workflows/main.yml/badge.svg)](https://github.com/0xSamWitch/hardhat-starter-contracts/actions/workflows/main.yml)
 
 ```shell
 yarn install
